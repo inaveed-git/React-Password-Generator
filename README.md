@@ -2,6 +2,8 @@
 
 This is a simple password generator web application built with React, Vite, and Tailwind CSS. It allows users to generate strong passwords with customizable options such as length, including numbers, characters, lowercase, and uppercase letters.
 
+![Password Generator App Screenshot](src/assets/screenshot1.PNG)
+
 ## Features
 
 - Generate strong passwords with customizable options.
